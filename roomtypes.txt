@@ -1,0 +1,17 @@
+S001             Single Room             2000.00
+S002             Single Room             2000.00
+S003             Single Room             2000.00
+D001             Double Room             4000.00
+D002             Double Room             4000.00
+T001             Twin Room               2000.00
+T002             Twin Room               2000.00
+F001             Family Room             6500.00
+F002             Family Room             6500.00
+F003             Family Room             6500.00
+ST01             Standed Room            4500.00
+ST02             Standed Room            4500.00
+ST03             Deluxe Room             8500.00
+DE01             Deluxe Room             8500.00
+DE02             Deluxe Room             8500.00
+
+
